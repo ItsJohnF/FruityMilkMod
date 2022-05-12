@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#S#",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:apple"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+      "item": "fruitymilkmod:apple_milk",
+      "count": 4
+    }
+}

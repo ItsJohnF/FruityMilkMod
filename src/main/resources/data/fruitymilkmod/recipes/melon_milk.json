@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "#S#",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:melon_slice"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "M": {
+            "item": "minecraft:milk_bucket"
+        }
+    },
+    "result": {
+      "item": "fruitymilkmod:melon_milk",
+      "count": 4
+    }
+}
